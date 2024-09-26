@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+   
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=1280, initial-scale=1, user-scalable=no">
+    <title>Document</title>
+</head>
+<body>
+  
+    <div class="wrapper">
+        <svg>
+            <text x="50%" y="50%" dy=".35em" text-anchor="middle">
+                Stop-Watch</text>
+        </svg>
+    </div>
+    <div id="container">
+
+        <div id="display">
+            00:00:00:00
+        </div>
+        <div id="control">
+            <button id="startBtn" onclick="start()">Start</button>
+            <button id="resetBtn" onclick="reset()">Reset</button>
+            <button id="stopBtn" onclick="stop()">Stop</button>
+        </div>
+    </div>
+    <script src="index.js"></script>
+</body>
+</html>
