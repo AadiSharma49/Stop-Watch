@@ -6,7 +6,7 @@ Welcome to the **Stopwatch** project! This project showcases how to create a bas
 
 Check out the live demo of the stopwatch here:
 
-[Click here to view the live demo](https://example.com/demo)
+[Click here to view the live demo](https://aadisharma49.github.io/Stop-Watch/)
 
 ## Features
 
